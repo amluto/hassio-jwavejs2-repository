@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant Community Add-ons",
+  "name": "amluto zwave-js-ui hack",
   "url": "https://addons.community",
-  "maintainer": "Franck Nijhof <frenck@addons.community>"
+  "maintainer": "Andy Lutomirski <luto@kernel.org>"
 }
