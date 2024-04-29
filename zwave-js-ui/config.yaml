@@ -1,4 +1,4 @@
-name: Z-Wave JS UI
+name: Z-Wave JS UI alternate
 version: 3.5.0
 slug: zwavejs2mqtt
 description: Fully configurable Z-Wave JS gateway and control panel
@@ -6,7 +6,7 @@ url: https://github.com/hassio-addons/addon-zwave-js-ui
 codenotary: codenotary@frenck.dev
 ingress: true
 ingress_stream: true
-panel_title: Z-Wave JS
+panel_title: Z-Wave JS alternate
 panel_icon: mdi:z-wave
 startup: system
 init: false
