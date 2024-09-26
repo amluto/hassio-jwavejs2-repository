@@ -1,4 +1,4 @@
-name: Prowlarr
+name: Prowlarr alternate
 version: 0.7.0
 slug: prowlarr
 description: Indexer manager/proxy built on the popular arr stack to integrate with

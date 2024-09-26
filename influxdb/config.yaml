@@ -1,4 +1,4 @@
-name: InfluxDB
+name: InfluxDB alternate
 version: 5.0.0
 slug: influxdb
 description: Scalable datastore for metrics, events, and real-time analytics

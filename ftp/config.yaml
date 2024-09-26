@@ -1,4 +1,4 @@
-name: FTP
+name: FTP alternate
 version: 5.0.2
 slug: ftp
 description: A secure and fast FTP server for Home Assistant

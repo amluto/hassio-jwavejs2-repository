@@ -1,4 +1,4 @@
-name: MQTT IO
+name: MQTT IO alternate
 version: 0.4.0
 slug: mqtt-io
 description: Expose GPIO modules and digital sensors via MQTT for remote control and

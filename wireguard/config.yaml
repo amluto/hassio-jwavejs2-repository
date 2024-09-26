@@ -1,4 +1,4 @@
-name: WireGuard
+name: WireGuard alternate
 version: 0.10.2
 slug: wireguard
 description: Fast, modern, secure VPN tunnel
