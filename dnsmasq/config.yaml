@@ -1,9 +1,9 @@
 ---
 version: 1.8.1
 slug: dnsmasq
-name: Dnsmasq
+name: Dnsmasq alternate
 description: A simple DNS server
-url: https://github.com/home-assistant/addons/tree/master/dnsmasq
+url: https://github.com/amluto/hassio-jwavejs2-repository/tree/master/dnsmasq
 advanced: true
 arch:
   - armhf

@@ -1,9 +1,9 @@
 ---
 version: 2.1.2
 slug: whisper
-name: Whisper
+name: Whisper alternate
 description: Speech-to-text with Whisper
-url: https://github.com/home-assistant/addons/blob/master/whisper
+url: https://github.com/amluto/hassio-jwavejs2-repository/blob/master/whisper
 arch:
   - amd64
   - aarch64

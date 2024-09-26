@@ -1,9 +1,9 @@
 ---
 version: "2.5"
 slug: rpc_shutdown
-name: RPC Shutdown
+name: RPC Shutdown alternate
 description: Shutdown Windows machines remotely
-url: https://github.com/home-assistant/addons/tree/master/rpc_shutdown
+url: https://github.com/amluto/hassio-jwavejs2-repository/tree/master/rpc_shutdown
 arch:
   - armhf
   - armv7

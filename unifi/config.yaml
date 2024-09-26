@@ -1,4 +1,4 @@
-name: UniFi Network Application
+name: UniFi Network Application alternate
 version: 3.0.5
 slug: unifi
 description: Manage your UniFi network using a web browser

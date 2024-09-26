@@ -1,9 +1,9 @@
 ---
 version: 0.3.0
 slug: vlc
-name: VLC
+name: VLC alternate
 description: Turn your device into a Media Player with VLC
-url: https://github.com/home-assistant/addons/tree/master/vlc
+url: https://github.com/amluto/hassio-jwavejs2-repository/tree/master/vlc
 arch:
   - amd64
   - i386

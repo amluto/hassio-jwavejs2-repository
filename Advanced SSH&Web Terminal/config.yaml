@@ -1,4 +1,4 @@
-name: Advanced SSH & Web Terminal
+name: Advanced SSH & Web Terminal alternate
 version: 18.0.0
 slug: ssh
 description: A supercharged SSH & Web Terminal access to your Home Assistant instance
@@ -10,7 +10,7 @@ ingress_port: 0
 ingress_stream: true
 init: false
 panel_icon: mdi:console
-panel_title: Terminal
+panel_title: Terminal alternate
 homeassistant: 0.92.0b2
 arch:
 - aarch64

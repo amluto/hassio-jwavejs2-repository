@@ -1,4 +1,4 @@
-name: AppDaemon
+name: AppDaemon alternate
 version: 0.16.6
 slug: appdaemon
 description: Python Apps and Dashboard using AppDaemon 4.x for Home Assistant

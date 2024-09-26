@@ -1,4 +1,4 @@
-name: Tor
+name: Tor alternate
 version: 5.0.1
 slug: tor
 description: Protect your privacy and access Home Assistant via Tor

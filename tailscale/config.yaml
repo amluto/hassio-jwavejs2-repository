@@ -1,4 +1,4 @@
-name: Tailscale
+name: Tailscale alternate
 version: 0.19.1
 slug: tailscale
 description: Zero config VPN for building secure networks

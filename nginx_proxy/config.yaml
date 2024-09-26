@@ -2,9 +2,9 @@
 version: 3.10.1
 hassio_api: true
 slug: nginx_proxy
-name: NGINX Home Assistant SSL proxy
+name: NGINX Home Assistant SSL proxy alternate
 description: An SSL/TLS proxy
-url: https://github.com/home-assistant/addons/tree/master/nginx_proxy
+url: https://github.com/amluto/hassio-jwavejs2-repository/tree/master/nginx_proxy
 arch:
   - armhf
   - armv7

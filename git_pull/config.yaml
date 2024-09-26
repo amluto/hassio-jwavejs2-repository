@@ -1,9 +1,9 @@
 ---
 version: 7.14.1
 slug: git_pull
-name: Git pull
+name: Git pull alternate
 description: Simple git pull to update the local configuration
-url: https://github.com/home-assistant/addons/tree/master/git_pull
+url: https://github.com/amluto/hassio-jwavejs2-repository/tree/master/git_pull
 advanced: true
 arch:
   - armhf

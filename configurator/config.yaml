@@ -1,9 +1,9 @@
 ---
 version: 5.8.0
 slug: configurator
-name: File editor
+name: File editor alternate
 description: Simple browser-based file editor for Home Assistant
-url: https://github.com/home-assistant/addons/tree/master/configurator
+url: https://github.com/amluto/hassio-jwavejs2-repository/tree/master/configurator
 codenotary: notary@home-assistant.io
 arch:
   - armhf

@@ -1,9 +1,9 @@
 ---
 version: 9.15.0
 slug: ssh
-name: Terminal & SSH
+name: Terminal & SSH alternate
 description: Allow logging in remotely to Home Assistant using SSH
-url: https://github.com/home-assistant/addons/tree/master/ssh
+url: https://github.com/amluto/hassio-jwavejs2-repository/tree/master/ssh
 codenotary: notary@home-assistant.io
 advanced: true
 arch:
@@ -34,7 +34,7 @@ options:
   server:
     tcp_forwarding: false
 panel_icon: mdi:console
-panel_title: Terminal
+panel_title: Terminal alternate
 ports:
   22/tcp: null
 schema:
